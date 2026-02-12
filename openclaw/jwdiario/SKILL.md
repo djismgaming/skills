@@ -29,6 +29,11 @@ Cuando se solicita:
 3. Incluye el encabezado del día con la cita bíblica correspondiente y la explicación sin cambiar su texto de ninguna forma.
 4. Incluye el enlace `https://wol.jw.org/es/` al final del mensaje
 
+## Nota importante
+
+- **Siempre usar la versión en español** de la página (wol.jw.org/es/).
+- **No traducir el texto**. El contenido debe extraerse directamente de la fuente en español, tal como aparece en la página oficial.
+
 ## Ejemplo de uso
 
 ```
